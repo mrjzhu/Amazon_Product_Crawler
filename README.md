@@ -34,7 +34,35 @@ Generate a AdsDate.txt file to store the Ads infomation.
 
 #### result example
 ```
-{"detail_url":"https://www.amazon.com/Rainbow-Light-Prenatal-Multivitamin-120-Count/dp/B06Y1PF11F","keyWords":["rainbow","light","prenatal","one","multivitamin","120","count","bottle"],"thumbnail":"https://images-na.ssl-images-amazon.com/images/I/41swTxW2+DL._AC_US218_.jpg","costPerClick":0,"campaignId":8040,"query":"Prenatal DHA","rankScore":0,"title":"Rainbow Light Prenatal One Multivitamin, 120-Count Bottle","query_group_id":10,"bidPrice":3.4,"adId":2,"relevanceScore":0,"price":36.47,"qualityScore":0,"pClick":0,"position":0,"category":"Health & Household","brand":"Rainbow Light"}
+{
+    "adId": 2,
+    "bidPrice": 3.4,
+    "brand": "Rainbow Light",
+    "campaignId": 8040,
+    "category": "Health & Household",
+    "costPerClick": 0,
+    "detail_url": "https://www.amazon.com/Rainbow-Light-Prenatal-Multivitamin-120-Count/dp/B06Y1PF11F",
+    "keyWords": [
+        "rainbow",
+        "light",
+        "prenatal",
+        "one",
+        "multivitamin",
+        "120",
+        "count",
+        "bottle"
+    ],
+    "pClick": 0,
+    "position": 0,
+    "price": 36.47,
+    "qualityScore": 0,
+    "query": "Prenatal DHA",
+    "query_group_id": 10,
+    "rankScore": 0,
+    "relevanceScore": 0,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41swTxW2+DL._AC_US218_.jpg",
+    "title": "Rainbow Light Prenatal One Multivitamin, 120-Count Bottle"
+}
 
 ```
 
