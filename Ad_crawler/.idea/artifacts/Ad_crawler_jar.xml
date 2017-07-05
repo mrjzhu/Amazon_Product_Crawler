@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ad_crawler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ad_crawler_jar</output-path>
+    <root id="archive" name="Ad_crawler.jar">
+      <element id="module-output" name="Ad_crawler" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/lucene-suggest-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/lucene-analyzers-common-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/slf4j-simple-1.7.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/lucene-queryparser-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/slf4j-api-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jsoup-1.10.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/lucene-core-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/cs504-2/javalib/json-20160807.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
